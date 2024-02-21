@@ -1,0 +1,8 @@
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.dll.config
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.AssemblyInfoInputs.cache
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.AssemblyInfo.cs
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.csproj.CoreCompileInputs.cache
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.MvcApplicationPartsAssemblyInfo.cache
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.RazorAssemblyInfo.cache
+D:\Sushant\practice\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\obj\Debug\net5.0\AspnetCoreMvcFull.RazorAssemblyInfo.cs

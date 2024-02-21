@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\2.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\2.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\3.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\3.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\4.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\4.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\aws.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\aws.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\misc\\aviato.png",
+      "PackagePath": "staticwebassets\\img\\icons\\misc\\aviato.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\misc\\bitbank.png",
+      "PackagePath": "staticwebassets\\img\\icons\\misc\\bitbank.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\misc\\triangle-light.png",
+      "PackagePath": "staticwebassets\\img\\icons\\misc\\triangle-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\misc\\zipcar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\misc\\zipcar.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\american-bank.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\american-bank.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\citi.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\citi.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\digital-ocean.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\digital-ocean.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\gumroad.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\gumroad.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\mastercard-2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\mastercard-2.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\icons\\payments\\stripes.png",
+      "PackagePath": "staticwebassets\\img\\icons\\payments\\stripes.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\404.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\404.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\auth-basic-mask-light.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\auth-basic-mask-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\misc-mask-light.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\misc-mask-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\misc-under-maintenance.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\misc-under-maintenance.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\tree-3.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\tree-3.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\tree.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\tree.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\illustrations\\trophy.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\trophy.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\fonts\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\materialdesignicons.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\node-waves\\node-waves.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\node-waves\\node-waves.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\node-waves\\node-waves.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\node-waves\\node-waves.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\wwwroot\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspnetCoreMvcFull.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspnetCoreMvcFull.props",
+      "PackagePath": "build\\AspnetCoreMvcFull.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspnetCoreMvcFull.props",
+      "PackagePath": "buildMultiTargeting\\AspnetCoreMvcFull.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspnetCoreMvcFull.props",
+      "PackagePath": "buildTransitive\\AspnetCoreMvcFull.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
