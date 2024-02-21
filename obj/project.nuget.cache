@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ec5/YQe7DdHo2q7L7RMX9CU5YJXUKDyzpHFwF29dIVUPtCjobKtZcGGBvGKF1FJ0uXb0lC4mbReOvs4UzTS5iw==",
+  "dgSpecHash": "SA4VzOusX4+nEtG7ppi0t1FnIxciQP0NppvpqSed4l1o3S4qyYUI5q1lP7cKgxWj162gZC4h/w45xFodBrUGTg==",
   "success": true,
-  "projectFilePath": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\AspnetCoreMvcFull.csproj",
+  "projectFilePath": "D:\\Sushant\\practice\\IRMSGIT\\IRMS\\AspnetCoreMvcFull.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sushanta.sahu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\sushanta.sahu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",

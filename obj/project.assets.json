@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\AspnetCoreMvcFull.csproj",
+      "projectUniqueName": "D:\\Sushant\\practice\\IRMSGIT\\IRMS\\AspnetCoreMvcFull.csproj",
       "projectName": "AspnetCoreMvcFull",
-      "projectPath": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\AspnetCoreMvcFull.csproj",
+      "projectPath": "D:\\Sushant\\practice\\IRMSGIT\\IRMS\\AspnetCoreMvcFull.csproj",
       "packagesPath": "C:\\Users\\sushanta.sahu\\.nuget\\packages\\",
-      "outputPath": "D:\\Sushant\\practice\\materio-bootstrap-html-aspnet-core-mvc-admin-template-free\\obj\\",
+      "outputPath": "D:\\Sushant\\practice\\IRMSGIT\\IRMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
