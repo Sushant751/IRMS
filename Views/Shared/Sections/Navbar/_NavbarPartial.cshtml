@@ -1,3 +1,4 @@
+@using System.Security.Claims;
 @* ! Brand demo (display only for navbar-full and hide on below xl) *@
 @if (ViewData["navbarFull"] != null)
 {
@@ -55,7 +56,7 @@
                 </div>
               </div>
               <div class="flex-grow-1">
-                <h6 class="mb-0">Sushant</h6>
+                                <h6 class="mb-0">@User.FindFirstValue(ClaimTypes.NameIdentifier);</h6>
                 <small class="text-muted">Admin</small>
               </div>
             </div>
@@ -89,14 +90,21 @@
           <div class="dropdown-divider my-1"></div>
         </li>
         <li>
-          <a class="dropdown-item" href="javascript:void(0);">
-            <i class="mdi mdi-power me-1 mdi-20px"></i>
-            <span class="align-middle">Log Out</span>
-          </a>
-        </li>
+                    <a class="dropdown-item" href="javascript:void(0);" onclick="logout()">
+                        <i class="mdi mdi-power me-1 mdi-20px"></i>
+                        <span class="align-middle">Log Out</span>
+                    </a>
+                </li>
       </ul>
     </li>
     <!--/ User -->
 
   </ul>
 </div>
+<script>
+    function logout() {
+        // You can use JavaScript to send an AJAX request to your logout endpoint
+        // or simply redirect to the logout URL
+        window.location.href = '/Auth/Logout'; // Adjust the URL based on your setup
+    }
+</script>

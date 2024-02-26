@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\LayoutExamples"
   ],
-  "SelectedNode": "\\D:\\Sushant\\practice\\IRMSGIT\\IRMS",
+  "SelectedNode": "\\Views\\LayoutExamples\\WithoutMenu.cshtml",
   "PreviewInSolutionExplorer": false
 }
